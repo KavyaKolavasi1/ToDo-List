@@ -35,4 +35,7 @@ This project involves the use of a To-Do List, which is used to track important 
 ## Reflection
 
 
+Resource was used as a guide for this project.
+https://www.youtube.com/watch?v=G0jO8kUrg-I
+
 
