@@ -4,7 +4,7 @@
 
 1)  [Overview]()
 
-2)  [Implemetation]()
+2)  [Implementation]()
 
 3)  [Visual Display]()
 
@@ -23,4 +23,6 @@ This project involves the use of a To-Do List, which is used to track important 
 ## Visual Display
 ![step1](https://github.com/KavyaKolavasi1/ToDo-List/assets/135289399/9015087a-85f6-4e5e-ae4a-86b047c04658)
 ![step2](https://github.com/KavyaKolavasi1/ToDo-List/assets/135289399/0c5658d0-16fd-4dde-bc33-7bc7f6f26445)
+![step3](https://github.com/KavyaKolavasi1/ToDo-List/assets/135289399/ad799c5b-4434-49a1-b286-8943b22fe008)
+
 
