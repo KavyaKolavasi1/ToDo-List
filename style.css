@@ -1,0 +1,121 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.box{
+    width: 100%;
+    min-height:100vh;
+    background: linear-gradient(135deg,#d897bf,#77bcce);
+    padding: 10px;
+
+}
+.listtodo{
+    width: 100%;
+    max-width: 540px;
+    background: #fff;
+    margin: 100px auto 20px;
+    padding: 40px 30px 70px;;
+    border-radius: 10px;
+
+}
+.listtodo h2{
+    color: #4b0dc0;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  
+  }
+
+.listtodo h2 img{
+    width: 100px;
+    margin-left: 10px;
+
+
+}
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background:#edeef0;
+    border-radius: 30px;
+    padding-left: 20px;
+    margin-bottom: 25px;
+}
+input{
+    flex: 1;
+    border: none;
+    outline: none;
+    background: transparent;
+    padding: 20px;
+    font-weight: 20px;
+}
+
+button{
+    border: none;
+    outline: none;
+    padding: 20px 50px;
+    background:#db14b0;
+    color: #070105;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 40px;
+}
+
+ul li{
+    list-style:none;
+    font-size: 17px;
+    padding: 12px 8px 12px 50px;
+    user-select: none;
+    cursor: pointer;
+    position: relative
+
+}
+
+
+ul li::before{
+    content: '';
+    position: absolute;
+    height:28px;
+    width: 30px;
+    border-radius: 50%;
+    background-image: url(images/image2.png);
+    background-size: cover;
+    background-position: center;
+    top: 12px;
+    left: 10px;
+
+}
+ul li.completebox{
+    color:#771515;
+    text-decoration: line-through;
+
+}
+ul li.completebox::before{
+    background-image: url(images/image3.png);
+}
+
+ul li span{
+    position: absolute;
+    right: 0;
+    top: 5 px;
+    width: 30px;
+    height: 40px;
+    font-size: 22 px;
+    color: #a52828;
+    line-height: 40px;
+    text-align: center;
+
+}
+ul li span:hover{
+    background: #edeef0 ;
+}
+
+
+
+
+
+
+
