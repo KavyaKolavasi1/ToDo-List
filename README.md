@@ -32,4 +32,7 @@ This project involves the use of a To-Do List, which is used to track important 
 ### Strike-out tasks as they are completed!
 ![step3](https://github.com/KavyaKolavasi1/ToDo-List/assets/135289399/ad799c5b-4434-49a1-b286-8943b22fe008)
 
+## Reflection
+
+
 
