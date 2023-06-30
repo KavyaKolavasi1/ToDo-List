@@ -2,13 +2,13 @@
 # TO-DO LIST  (HTML/CSS/JAVASCRIPT)
 ## Table of Contents
 
-1)  [Overview]()
+1)  [Overview](https://github.com/KavyaKolavasi1/ToDo-List/tree/main#overview)
 
-2)  [Implementation]()
+2)  [Implemetation](https://github.com/KavyaKolavasi1/ToDo-List/tree/main#implementation)
 
-3)  [Visual Display]()
+3)  [Visual Display](https://github.com/KavyaKolavasi1/ToDo-List/tree/main#visual-display)
 
-4) [Reflection]()
+4) [Reflection](https://github.com/KavyaKolavasi1/ToDo-List#reflection)
 
 ## Overview
 ### Description
