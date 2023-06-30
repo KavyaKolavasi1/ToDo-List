@@ -21,6 +21,6 @@ This project involves the use of a To-Do List, which is used to track important 
 
 
 ## Visual Display
-![](https://github.com/KavyaKolavasi1/ToDo-List/assets/135289399/dba43153-5a46-470b-a496-88c075bd673a)
-
+![step1](https://github.com/KavyaKolavasi1/ToDo-List/assets/135289399/9015087a-85f6-4e5e-ae4a-86b047c04658)
+![step2](https://github.com/KavyaKolavasi1/ToDo-List/assets/135289399/0c5658d0-16fd-4dde-bc33-7bc7f6f26445)
 
