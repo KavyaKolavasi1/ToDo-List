@@ -22,15 +22,15 @@ This project involves the use of a To-Do List, which is used to track important 
 
 ## Visual Display
 ### Empty To-Do List! Please enter tasks as necessary. If no tasks are entered and "submit" option is chosen, an error message will display!
-![step1](https://github.com/KavyaKolavasi1/ToDo-List/assets/135289399/9015087a-85f6-4e5e-ae4a-86b047c04658)
+![step1](https://github.com/KavyaKolavasi1/ToDo-List/assets/135289399/d2066190-2d3a-4d88-9eff-05ef76f97ebb)
 
 
 ### Enter tasks into text-box!
-![step2](https://github.com/KavyaKolavasi1/ToDo-List/assets/135289399/0c5658d0-16fd-4dde-bc33-7bc7f6f26445)
+![step2](https://github.com/KavyaKolavasi1/ToDo-List/assets/135289399/217b52a7-0d4a-42ba-b6f6-f009a60ab2fe)
 
 
 ### Strike-out tasks as they are completed!
-![step3](https://github.com/KavyaKolavasi1/ToDo-List/assets/135289399/ad799c5b-4434-49a1-b286-8943b22fe008)
+![step3](https://github.com/KavyaKolavasi1/ToDo-List/assets/135289399/bba043a7-6c4d-4686-a54a-151b4e2628c7)
 
 ## Reflection
 
