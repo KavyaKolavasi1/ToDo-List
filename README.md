@@ -33,7 +33,7 @@ This project involves the use of a To-Do List, which is used to track important 
 ![step3](https://github.com/KavyaKolavasi1/ToDo-List/assets/135289399/bba043a7-6c4d-4686-a54a-151b4e2628c7)
 
 ## Reflection
-This project is a great introduction to the uses of HTML, CSS, and Javascript and how to incorporate eacheahc of these languages to create a functioning program. The display and visability included the uses of buttons, lists, boxes through HTML and formatting/color through CSS. These similar concepts can be utilized for many front end projects and I hope to only improve upon this project with the use of more front-end languages such as MERN and REACT.
+This project is a great introduction to the uses of HTML, CSS, and Javascript and how to incorporate eacheahc of these languages to create a functioning program. The display and visability included the uses of buttons, lists, boxes through HTML and formatting/color through CSS. These similar concepts can be utilized for many front end projects and I hope to only improve upon this project with the use of more front-end frameworks such as MERN.
 
 
 
