@@ -4,7 +4,7 @@
 
 1)  [Overview](https://github.com/KavyaKolavasi1/ToDo-List/tree/main#overview)
 
-2)  [Implemetation](https://github.com/KavyaKolavasi1/ToDo-List/tree/main#implementation)
+2)  [Implementation](https://github.com/KavyaKolavasi1/ToDo-List/tree/main#implementation)
 
 3)  [Visual Display](https://github.com/KavyaKolavasi1/ToDo-List/tree/main#visual-display)
 
